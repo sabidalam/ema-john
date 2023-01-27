@@ -1,0 +1,25 @@
+.btnn {
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btnn p {
+    padding-right: 5px;
+    margin: 0;
+}
+
+.btnn-clear {
+    background-color: #FF3030;
+    margin-bottom: 10px;
+}
+
+.btnn-review {
+    background-color: #FF9900;
+}
